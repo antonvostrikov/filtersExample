@@ -1,0 +1,66 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "sex": "Мужские",
+      "brand": "Casio",
+      "name": "Японские наручные часы Casio G-SHOCK DW-5600BB-1E с хронографом",
+      "price": 10230,
+      "country": "Япония"
+    },
+    {
+      "id": 2,
+      "sex": "Женские",
+      "brand": "Quadro",
+      "name": "Наручные часы Quadro Melrose Daniel Wellington DW00100510",
+      "price": 14620,
+      "country": "Швеция"
+    },
+    {
+      "id": 3,
+      "sex": "Мужские",
+      "brand": "Seiko",
+      "name": "Японские наручные часы Seiko SSB321P1 с хронографом",
+      "price": 37710,
+      "country": "Япония"
+    },
+    {
+      "id": 4,
+      "sex": "Женские",
+      "brand": "Giga",
+      "name": "Механические керамические наручные часы CIGA Design U032-WU01-W5W7W",
+      "price": 162010,
+      "country": "Китай"
+    },
+    {
+      "id": 5,
+      "sex": "Мужские",
+      "brand": "Cuervo",
+      "name": "Швейцарские механические наручные часы Cuervo y Sobrinos 2860.1BL",
+      "price": 351700,
+      "country": "Швейцария"
+    },
+    {
+      "id": 6,
+      "sex": "Мужские",
+      "brand": "Titoni",
+      "name": "Швейцарские механические наручные часы Titoni 797-S-697",
+      "price": 115310,
+      "country": "Швейцария"
+    }
+  ],
+  "brands": [
+    { "id": 1, "filter": "Titoni" },
+    { "id": 2, "filter": "Cuervo" },
+    { "id": 3, "filter": "Giga" },
+    { "id": 4, "filter": "Seiko" },
+    { "id": 5, "filter": "Quadro" },
+    { "id": 6, "filter": "Casio" }
+  ],
+  "countries": [
+    { "id": 1, "filter": "Швейцария" },
+    { "id": 2, "filter": "Китай" },
+    { "id": 3, "filter": "Япония" },
+    { "id": 4, "filter": "Швеция" }
+  ]
+}
